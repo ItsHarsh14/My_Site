@@ -1,0 +1,172 @@
+body{background-color: hsl(185, 78%, 70%);
+    margin: 0;
+    text-align: center;
+
+    
+}
+.div1 { background-color: hsl(185, 78%, 70%);
+        
+    
+}
+.snaow_cloud{
+    width: 400px;
+    height: 200px;
+    position:relative;
+    
+}
+.snaow_man{
+    height: 200px;
+    width:200px;
+    position:absolute;
+    margin-left: 60px;
+    margin-top: 0px;
+}
+
+.mountaind{
+    position: relative;
+    
+    margin-bottom: 0;
+}
+.cloud1{
+    height: 160px;
+    width: 200px;
+    position: relative;
+    margin-top: 100px;
+    margin-left: 40px;
+    
+}
+.penguin1{
+    height: 100px;
+    width:100px;
+    position: absolute;
+    margin-right: 90px;
+    margin-top: 0;
+    
+}
+
+h1{
+    color: #009EFF;
+    font-size: 5.625rem;
+    line-height: 1.5;
+    font-family:'Sacramento' , cursive ;
+    margin: 0px auto 0 auto;
+}
+p{
+    color: #009EFF;
+    font-size: 2.5rem;
+    font-family:'Roboto Slab' , sans-serif ;
+    margin: 0px auto 0 auto;
+}
+
+   
+.cloud2{
+    height: 180px;
+    width: 200px;
+    position: relative;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.cloud2d{
+    height: 140px;
+    width: 300px;
+    position: relative;
+    margin-right: 100px;
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-top: auto;
+}
+.mountain1{
+    
+    width:800px;
+
+    left: 200px;
+    right:200px;
+
+
+
+}
+
+.div2 { background-color: #EAFDFC;
+    margin-top: 0;
+    }
+.profile_image1{
+    height: 200px;
+    width: 200px;
+    border: solid;
+    border-radius: 105px;
+    border-width: 5px;
+    border-color: hsl(185, 78%, 70%);
+}
+    
+.profile_imaged{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 15px auto 15px auto;
+}  
+.hello{
+    color: #009EFF;
+    font-size: 3rem;
+    font-family:'Sacramento', cursive ;
+    margin: 0 auto 0 auto;
+
+}  
+.about{
+    color: #045291;
+    font-size: 1.2rem;
+    font-family:'Roboto Slab' , sans-serif ;
+    margin: 0px auto 0 auto;
+}
+.educationd{
+    text-align: left;
+    margin-left:50px;
+    
+}
+.Btech{
+    font-size: 1em;
+}
+.UG{
+    font-size: medium;
+    color: black;
+}
+.languaged{
+    text-align: left;
+    margin-left:50px;
+}
+.language{
+    font-size: 14px;
+    color: black;
+}
+.language-img{
+    height: 50px;
+    width: 50px;
+}
+.ul{
+    list-style:square;
+}
+.project{
+    text-align: left;
+    margin-left:50px;
+}
+.discription{
+    color: black;
+    font-size: 14px;
+}
+
+
+
+
+.div3 { 
+    background-color:hsl(185, 78%, 70%) ;
+   }
+.contact{
+    color: #045291;
+    
+    
+}
+
+.social-image{
+    height: 50px;
+    width: 50px;
+    border-radius: 10%;
+}
