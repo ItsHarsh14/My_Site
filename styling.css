@@ -114,12 +114,16 @@ p{
 .about{
     color: #045291;
     font-size: 1.2rem;
-    font-family:'Roboto Slab' , sans-serif ;
+    font-family:'Merriweather' , sans-serif ;
     margin: 0px auto 0 auto;
+}
+.font{font-family: 'Merriweather', sans-serif;
+
 }
 .educationd{
     text-align: left;
     margin-left:50px;
+    font-size: large;
     
 }
 .Btech{
@@ -132,10 +136,13 @@ p{
 .languaged{
     text-align: left;
     margin-left:50px;
+    font-size: large;
+    font-family: 'Merriweather', sans-serif;
 }
 .language{
     font-size: 14px;
     color: black;
+    font-family: 'Merriweather', sans-serif;
 }
 .language-img{
     height: 50px;
@@ -147,10 +154,13 @@ p{
 .project{
     text-align: left;
     margin-left:50px;
+    font-family: 'Merriweather', sans-serif;
+    font-size: large;
 }
 .discription{
     color: black;
     font-size: 14px;
+    font-family: 'Merriweather', sans-serif;
 }
 
 
